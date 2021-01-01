@@ -1,0 +1,3 @@
+{
+  "cmd": ["tidy", "-config", "$packages/User/tidy_config.cfg", "$file"]
+}
